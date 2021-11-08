@@ -1,0 +1,24 @@
+{
+    "name": "RdI2C",
+    "version": "1.0.0",
+    "description": "I2C Central/Perif for ESP32 (with direct register access)",
+    "keywords": "i2c, esp32",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/robdobsn/RdI2C"
+    },
+    "authors":
+    [
+      {
+        "name": "Rob Dobson",
+        "email": "rob@dobson.com",
+        "url": "https://robdobson.com",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/robdobsn/RdI2C",
+    "frameworks": ["arduino", "espidf"],
+    "platforms": ["espressif32"]
+  }
